@@ -1,2 +1,2 @@
 
-Project on Headsize and BrainWeight
+EDA on Headsize and BrainWeight
